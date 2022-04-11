@@ -1,0 +1,87 @@
+body {
+    font-family: 'Kameron', serif;
+    background-color: lightgrey;
+}
+
+h2,p,.readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+.readme-wrapper :hover {
+font-weight: bold;
+color: black;
+}
+
+span {
+    font-weight: 600;
+    color: blue;
+}
+.box {
+display: block;
+margin: 3em;   
+padding: 1em;
+border: 5px solid rgb(24, 106, 145);
+border-radius: 5em;
+width: 30em;
+}
+#box1 {
+    background-color: rgba(24, 106, 145, 0.5);
+}
+#box2 {
+    background-color: rgba(133, 80, 177, 0.5);
+}
+#box3 {
+    background-color: rgba(114, 199, 106, 0.5);
+}
+#box4 {
+    background-color: rgba(182, 190, 66, 0.5);
+}
+.box-image {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: rgb(224, 100, 100);
+    top: 3em;
+    left: 7em;
+}
+h1 {
+    color: rgb(62, 106, 228);
+}
+.original {
+    color: rgb(98, 175, 35);
+}
+.additional {
+    color: rgb(151, 40, 155);
+}
+#show1 {
+color: red;
+}
+#show2 {
+    color: black;
+}
+#show3 {
+    color: blue;
+}
+#show4 {
+    color: aqua;
+}
+#show5 {
+    color: purple;
+}
+ul {
+    color: rgb(24, 106, 145);
+}
+.star {
+    color: rgb(143, 44, 44);
+}
+#wars {
+    color: blueviolet;
+}
+.list-border {
+    border: 2px solid black;
+}
